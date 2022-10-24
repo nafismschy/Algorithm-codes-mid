@@ -1,0 +1,21 @@
+#include<bits/stdc++.h>
+using namespace std;
+
+//f(x)=x^2
+
+int f(int x){
+    return x*x;
+}
+
+
+int main(){
+
+    int x;
+
+        cout<<x[i]<<endl;
+
+
+
+return 0;
+}
+
